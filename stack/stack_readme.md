@@ -7,8 +7,8 @@ Solutions to cover :
 5. Stock span &#x2612;
 6. Max Area Histogram &#x2612;
 7. Rain water Trapping &#x2612;
-8. Min Element in stack
-    8.1 : With Extra space &#x2612;
+8. Min Element in stack<br />
+    8.1 : With Extra space &#x2612;<br />
     8.2 : Without Extra space &#x2612;
 
 &#x2611; : completed <br />
