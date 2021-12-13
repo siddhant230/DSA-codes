@@ -11,5 +11,5 @@ Solutions to cover :
     8.1 : With Extra space &#x2612;
     8.2 : Without Extra space &#x2612;
 
-&#x2611; : completed
+&#x2611; : completed <br />
 &#x2612; : To complete
