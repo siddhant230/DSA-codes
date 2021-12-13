@@ -5,7 +5,9 @@ This is a structured version of dsa solution in one of my repos.
 
 Topic under progress :
 
+```
 1. Stack
+```
 
 Topics completed :
 
