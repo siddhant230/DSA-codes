@@ -9,7 +9,7 @@ Topic under progress :
 1. Linked list
 ```
 
-Topics completed :
+Topics completed &#x2611;:
 
 ```
 1. Stack ✔
