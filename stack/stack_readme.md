@@ -9,8 +9,8 @@ Solutions to cover :
 7. Max Area Binary Histogram &#x2611;
 8. Rain water Trapping &#x2611;
 9. Min Element in stack<br />
-    8.1 : With Extra space &#x2611;<br />
-    8.2 : Without Extra space &#x2611;
+    9.1 : With Extra space &#x2611;<br />
+    9.2 : Without Extra space &#x2611;
 
 &#x2611; : completed <br />
 ❌ : To complete
