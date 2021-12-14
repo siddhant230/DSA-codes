@@ -4,10 +4,11 @@ Solutions to cover :
 2. Nearest greater to right &#x2611;
 3. Nearest smaller to left &#x2611;
 4. Nearest smaller to right &#x2611;
-5. Stock span ❌
-6. Max Area Histogram ❌
-7. Rain water Trapping ❌
-8. Min Element in stack<br />
+5. Stock span &#x2611;
+6. Max Area Histogram &#x2611;
+7. Max Area Binary Histogram &#x2611;
+8. Rain water Trapping ❌
+9. Min Element in stack<br />
     8.1 : With Extra space ❌<br />
     8.2 : Without Extra space ❌
 
