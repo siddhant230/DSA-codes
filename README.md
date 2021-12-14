@@ -12,5 +12,5 @@ Topic under progress :
 Topics completed :
 
 ```
-1. Stack &#x2611;
+1. Stack ✔
 ```
