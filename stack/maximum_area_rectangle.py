@@ -46,7 +46,7 @@ def nearestSmallerIndexToLeft(array):
     # step 1: Traverse the array from right to left
     for i in range(0, len(array)):
 
-        # step 2: pop elements from stack unless top is greater than current array element
+        # step 2: pop elements from stack unless top is smaller than current array element
         while len(stack):
             if array[stack[-1]] >= array[i]:
                 stack.pop(-1)
